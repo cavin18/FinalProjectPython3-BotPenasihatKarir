@@ -7,10 +7,9 @@ Bot ini membantu dan memberi saran kepada remaja, mahasiswa hingga orang dewasa 
 * VS Code
 * Library discord.py
 * Database SQL
-    1. Tabel pertanyaan
-    2. Tabel daftar karir
-    3. Tabel lowongan pekerjaan
-    4. 
+    * Tabel pertanyaan
+    * Tabel daftar karir
+    * Tabel lowongan pekerjaan
 
 ## Proyek ini akan berisi:
-> Bot ini akan berisi informasi dan lalalalal
+> 
