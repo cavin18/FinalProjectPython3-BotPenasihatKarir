@@ -19,5 +19,3 @@ Berikut adalah perintah-perintah yang dapat digunakan oleh pengguna di dalam ser
 
 ---
 
-##  Alur Kerja Bot
-1. Pengguna mengetik `!mulai` 
