@@ -2,12 +2,6 @@
 
 Sebuah bot Discord interaktif yang dirancang untuk membantu mahasiswa mengeksplorasi jalur karir berdasarkan dua pendekatan utama: **Kesesuaian Jurusan Kuliah** atau **Minat & Bakat Pribadi**. Bot ini terintegrasi dengan database SQL untuk menyimpan data kuis, referensi karir, dan informasi lowongan kerja terbaru.
 
-### 📊 Desain Database (SQL)
-Proyek ini menggunakan database relasional dengan struktur tabel sebagai berikut (Catatan: Semua penulisan teks menghindari penggunaan tanda petik tunggal/apostrof seperti *doesnt* atau *havent* untuk menjaga keamanan eksekusi sintaks SQL):
-1. **Tabel Pertanyaan (`kuis_pertanyaan`)**: Menyimpan daftar pertanyaan kuis beserta pilihan jawaban untuk menentukan kecenderungan minat atau kesesuaian jurusan.
-2. **Tabel Daftar Karir (`daftar_karir`)**: Memuat informasi profil profesi, deskripsi kerja, serta keahlian yang dibutuhkan.
-3. **Tabel Lowongan Pekerjaan (`loker_aktif`)**: Berisi info lowongan kerja, nama perusahaan, syarat, dan link pendaftaran yang bisa diakses pengguna.
-
 ---
 
 ## 🤖 Daftar Command (Perintah Bot)
